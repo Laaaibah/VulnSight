@@ -107,3 +107,4 @@ Each scan report includes:
 
 ## 🧠 Conclusion
 **VulnSight** demonstrates how machine learning can enhance cybersecurity by automating vulnerability detection and reporting. It improves efficiency, reduces manual effort, and helps prioritize security risks effectively.
+(unzip the templates, static, utils and models)
