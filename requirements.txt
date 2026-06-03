@@ -1,0 +1,6 @@
+flask==2.2.3
+python-nmap==0.7.1
+joblib==1.2.0
+numpy==1.24.2
+scikit-learn==1.2.2
+werkzeug==2.2.3
